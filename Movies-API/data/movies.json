@@ -1,0 +1,96 @@
+[
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "duration": 178,
+        "ratings": "4.9 out of 5 stars",
+        "totalRatings": 3000000,
+        "releaseYear": 2001,
+        "releaseDate": "2001-12-19",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "directors": [
+          "Peter Jackson"
+        ],
+        "coverImage": "A group of hobbits and their companions set out on a journey to destroy the One Ring.",
+        "actors": [
+          "Elijah Wood",
+          "Ian McKellen",
+          "Sean Astin"
+        ],
+        "price": 14.99
+      },
+      {
+        "name": "French Kiss",
+        "description": "A woman flying to France to confront her straying fiancé gets into trouble when the charming crook seated next to her uses her to smuggle a stolen diamond necklace.",
+        "duration": 101,
+        "ratings": "3.8 out of 5 stars",
+        "totalRatings": 200000,
+        "releaseYear": 1995,
+        "releaseDate": "1995-05-05",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "directors": [
+          "Lawrence Kasdan"
+        ],
+        "coverImage": "A woman meets a charming man on a plane to Paris.",
+        "actors": [
+          "Meg Ryan",
+          "Kevin Kline",
+          "Jean Reno"
+        ],
+        "price": 9.99
+      },
+      {
+        "name": "The Shawshank Redemption",
+        "description": "A banker sentenced to life in prison for the murder of his wife and her lover builds a new life for himself over the course of two decades, befriending a fellow prisoner and finding hope in the most unlikely of places.",
+        "duration": 142,
+        "ratings": "4.9 out of 5 stars",
+        "totalRatings": 900000,
+        "releaseYear": 1994,
+        "releaseDate": "1994-09-19",
+        "genres": [
+          "Drama",
+          "Crime"
+        ],
+        "directors": [
+          "Frank Darabont"
+        ],
+        "coverImage": "A man stands looking out at the Shawshank State Penitentiary.",
+        "actors": [
+          "Tim Robbins",
+          "Morgan Freeman",
+          "Bob Gunton"
+        ],
+        "price": 19.99
+      },
+      {
+        "name": "Life of Pi",
+        "description": "A young boy stranded on a lifeboat with a Bengal tiger must find a way to survive.",
+        "duration": 127,
+        "ratings": "4.8 out of 5 stars",
+        "totalRatings": 500000,
+        "releaseYear": 2012,
+        "releaseDate": "2012-11-21",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "directors": [
+          "Ang Lee"
+        ],
+        "coverImage": "A young boy sits on a lifeboat with a Bengal tiger.",
+        "actors": [
+          "Suraj Sharma",
+          "Irrfan Khan",
+          "Tabu"
+        ],
+        "price": 14.99
+      }
+
+]
